@@ -36,7 +36,7 @@
     "lodash": "4.17.15",
     "mongodb": "3.3.3",
     "mongoose": "5.7.7",
-    "snyk": "^1.230.5"
+    "snyk": "^1.996.0"
   },
   "private": true,
   "snyk": true
